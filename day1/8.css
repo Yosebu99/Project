@@ -1,0 +1,46 @@
+.parent{
+    max-width: 900px;
+    height:900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+
+
+}
+.emp-1{
+    width:250px;
+    box-shadow: 2px 2px 10px black;
+    text-align: center;
+    padding:20px;
+    border-radius: 10px;
+    border: 1px;
+}
+.emp-1 img{
+    width:80%;
+    background-color: rgb(72, 217, 246);
+    border-radius: 50%;
+    
+
+}
+.emp-1 button{
+    border: none;
+    border-radius: 5px;
+    background-color:black;
+    color:white;
+    
+}
+body{
+    background-color: beige;
+}
+footer{
+    background-color: rgb(60, 189, 237);
+    display:flex;
+    justify-content:space-around;
+    align-content: flex-end;
+    border-radius: 20px;
+    font-weight: bold;
+
+}

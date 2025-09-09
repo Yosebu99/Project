@@ -1,0 +1,78 @@
+.list{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: none; 
+
+}
+.list a{
+    font-size:2rem;
+    text-decoration:none;
+}
+ a:link{
+     background-color: aqua;
+
+}
+a:visited{
+    color: white;
+     background-color: blue;
+}
+a:hover{
+    background-color: yellow;
+    color:blueviolet
+}
+
+a:focus{
+    color: salmon;
+    font-weight: bold;
+    background-color: lightyellow;
+}
+a:active{
+    background-color:fuchsia ;
+    color: springgreen;
+}
+.heading{
+    text-align: ;
+}
+
+.heading:hover{
+    background-color: cornflowerblue;
+    color:white;
+}
+.heading{
+    text-align: center;
+}
+.heading:hover{
+    background-color: darkslategrey;
+    color:white
+}
+
+table{
+    width:75% ;
+    text-align: center;
+    margin-top:100px;
+    margin:auto;
+    background-color:floralwhite 
+    color:indigo;
+   margin-bottom:40px ;
+
+
+}
+
+/* thead{
+    background-color:darkslategray ;
+    color: white;
+    margin-bottom: ;
+} */
+
+table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+tr:hover{
+    background-color:aquamarine ;
+    color: darkgray;
+    font-weight: bold;
+}
+

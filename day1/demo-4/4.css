@@ -1,0 +1,32 @@
+.heading{
+    text-align: center;
+    color:brown;
+}
+.main{
+    text-align:center;
+}
+span{
+    color:rgb(37, 21, 209);
+}
+.parent{
+ width: 500px;
+ height: 400px;
+background-color:rgb(251, 251, 41);
+ margin: auto;
+
+}
+.child-1{
+    width:70%;
+    height: 350px;
+    background-color: rgb(27, 16, 3);
+    margin:auto;  
+}
+.child-2{
+    width:60%;
+    height: 300px;
+    background-color: magenta;
+    margin:auto;
+}
+body{
+    height:2000px;
+}

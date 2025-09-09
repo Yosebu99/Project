@@ -1,0 +1,38 @@
+.main{
+    max-width:800px;
+    height: 500px;
+    border:2px solid black;
+    display:flex;
+    flex-wrap: wrap;
+    margin:auto;
+    justify-content:center;
+    align-items: center;
+}
+.img{
+    width: 100px;
+    
+    margin: 10px;
+
+}
+.img-1{
+    height:100px;
+}
+.img-2{
+    height: 200px;;
+}
+.img-3{
+    height: 300px;
+}
+
+
+.list{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    background-color:black;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+    font-weight: bold;
+
+}

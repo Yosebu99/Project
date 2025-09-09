@@ -1,0 +1,19 @@
+button:hover{
+    box-shadow: -5px -5px 23px #f50948,
+    5px 5px 23px gold;
+
+}
+button{
+    transition:box-shadow 0.3s ease;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding:10px 20px;
+    display:block;
+    
+    
+}
+.bdy{
+    background-color: black;
+}

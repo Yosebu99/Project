@@ -1,0 +1,23 @@
+.main{
+    width:100%;
+    border:1px solid black;
+   display: flex;
+   position:relative;
+
+}
+.child1,.child2,.child3{
+    width:200px;
+    height:100px;
+
+}
+.child1{
+    background-color: aqua;
+
+}
+.child2{
+    background-color: brown;
+    
+}
+.child3{
+    background-color: chartreuse;
+}

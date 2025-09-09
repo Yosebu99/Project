@@ -1,0 +1,30 @@
+.heading{
+    text-align: center;
+    color:darkred;
+}
+
+
+div{
+    padding: 5px;
+    margin:auto;
+ 
+}
+.loginform{
+    width: 500px;
+    margin: auto;
+    padding-top:10px;
+
+}
+input[type="text"],input[type="password"]{
+width:100%;
+border-radius: 5px;
+
+}
+.btn{
+    background-color: darkslategray;
+    color: white;
+    border-radius: 5px;
+    padding:5px 10px;
+    border:none;
+
+}
